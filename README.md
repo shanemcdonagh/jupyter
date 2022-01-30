@@ -1,9 +1,9 @@
 # Graph Theory
 
 ## Introduction
-This repository will be used as my learning environment throughout this current module, through Python. 
+This repository will be used as my learning environment throughout this current module, through **Python**. 
 
-Jupyter is used for data visualization and analysis 
+**Jupyter** is a platform in which we will use for data visualization and analysis 
 
 ## Learning Outcomes
 - Learn about ideas and concepts within graph theory
