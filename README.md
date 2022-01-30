@@ -12,6 +12,6 @@ This repository will be used as my learning environment throughout this current 
 - Solve complex problems be application of graph theory 
 
 ## Current Progress
-- Week 1: Set up a Jupyter Notebook on GitHub and learned it's basic functions
-- Week 2: Learned about Python conditions, lists, functions and variables
-- Week 3: TBD
+- **Week 1**: Set up a Jupyter Notebook on GitHub and learned it's basic functions
+- **Week 2**: Learned about Python conditions, lists, functions and variables
+- **Week 3**: TBD
