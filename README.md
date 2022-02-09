@@ -14,4 +14,5 @@ This repository will be used as my learning environment throughout this current 
 ## Current Progress
 - **Week 1**: Set up a Jupyter Notebook on GitHub and learned it's basic functions
 - **Week 2**: Learned about Python conditions, lists, functions and variables
-- **Week 3**: TBD
+- **Week 3**: Explored lists further, alongside Tuples. Also implemented a Bubble Sort and Heap Sort algorithm
+- **Week 4**: Refactored our implementation of Heap Sort and broke down how it works
