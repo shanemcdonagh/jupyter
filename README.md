@@ -16,3 +16,6 @@ This repository will be used as my learning environment throughout this current 
 - **Week 2**: Learned about Python conditions, lists, functions and variables
 - **Week 3**: Explored lists further, alongside Tuples. Also implemented a Bubble Sort and Heap Sort algorithm
 - **Week 4**: Refactored our implementation of Heap Sort and broke down how it works
+- **Week 5**: Learned the basic definitons of sets, functions, boolean logic etc.
+- **Week 6** Reading Week
+- **Week 7** Learned of the purposes of exponents and logs and how they apply to Heap Sort
