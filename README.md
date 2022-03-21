@@ -19,3 +19,5 @@ This repository will be used as my learning environment throughout this current 
 - **Week 5**: Learned the basic definitons of sets, functions, boolean logic etc.
 - **Week 6** Reading Week
 - **Week 7** Learned of the purposes of exponents and logs and how they apply to Heap Sort
+- **Week 9** Began discussing the Graph Isomorphism Problem
+- **Week 10** Further discussion on the Graph Isomorphism Problem
